@@ -1,0 +1,8 @@
+/home/youssef/IdeaProjects/CompDS/src/main/java/ma/emsi/elouai/compds/CompDsApplication.java
+/home/youssef/IdeaProjects/CompDS/src/main/java/ma/emsi/elouai/compds/dao/entities/Computer.java
+/home/youssef/IdeaProjects/CompDS/src/main/java/ma/emsi/elouai/compds/dao/repositories/ComputerRepository.java
+/home/youssef/IdeaProjects/CompDS/src/main/java/ma/emsi/elouai/compds/dto/ComputerDTO.java
+/home/youssef/IdeaProjects/CompDS/src/main/java/ma/emsi/elouai/compds/mapper/ComputerMapper.java
+/home/youssef/IdeaProjects/CompDS/src/main/java/ma/emsi/elouai/compds/service/ComputerManager.java
+/home/youssef/IdeaProjects/CompDS/src/main/java/ma/emsi/elouai/compds/service/ComputerService.java
+/home/youssef/IdeaProjects/CompDS/src/main/java/ma/emsi/elouai/compds/web/ComputerGraphQLController.java

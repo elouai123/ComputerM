@@ -1,0 +1,8 @@
+type Computer {
+  proce: String
+  ram: Float
+  hardDrive: Float
+  price: Float
+  macAddress: String
+
+}
